@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "stubby": "^5.1.0"
+  },
+  "name": "skooldio_automate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "mock": "stubby -d api.yml"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
